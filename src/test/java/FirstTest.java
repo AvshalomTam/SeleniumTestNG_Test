@@ -15,7 +15,6 @@ import java.util.concurrent.TimeUnit;
  * Description: This is the first Selenium TestNG test.
  *              It opens amazon homepage and make test there
  ****************************************************************************/
-
 public class FirstTest {
     //-----------------------------------Global Variables-----------------------------------
     //Declare a Webdriver variable
